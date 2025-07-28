@@ -2,7 +2,7 @@ Calculadora de Partidas Rankeadas
 
 Projeto desenvolvido para o desafio da **Digital Innovation One (DIO)**, com foco na prática dos fundamentos de JavaScript: variáveis, operadores, estruturas de decisão, laços de repetição e funções.
 
-## 📌 Sobre o Projeto
+Sobre o Projeto
 
 A aplicação calcula o saldo de partidas ranqueadas de um jogador com base nas vitórias e derrotas informadas, e determina o **nível** do herói de acordo com a seguinte tabela:
 
@@ -16,7 +16,7 @@ A aplicação calcula o saldo de partidas ranqueadas de um jogador com base nas 
 | 91 a 100         | Lendário  |
 | 101 ou mais      | Imortal   |
 
-## 💻 Funcionalidades
+Funcionalidades
 
 - Cálculo automático do saldo (`vitórias - derrotas`)
 - Classificação do herói com base nas vitórias totais
